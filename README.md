@@ -1,119 +1,111 @@
-<div align="center">
-  
-# 👋 Hi, I'm Hamidreza Janati
+<h1 align="center">
+  Hi 👋, I'm Hossein Rezazadeh Janati
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+<h3 align="center">
+ iOS Developer • Django Backend Engineer • Full Stack Developer
+</h3>
 
-</div>
+<p align="center">
+  <a href="https://hrzjanati.ir">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
 
----
+  <a href="https://ir.linkedin.com/in/hrzjanati">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-## 🚀 About Me
-```typescript
-const hamidreza = {
-location: "Iran 🇮🇷",
-role: "Full Stack Developer",
-interests: ["AI", "Web Development", "Problem Solving"],
-currentlyLearning: ["Advanced React", "System Design", "ML/AI"],
-funFact: "I debug with console.log() 😄"
-};
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+  <a href="mailto:hrzjanati@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 💫 About Me
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrzjanati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrzjanati&layout=compact&langs_count=8&theme=tokyonight"/>
+🚀 Passionate about building scalable mobile and backend systems
 
-</div>
+📱 iOS Developer using:
+- Swift
+- SwiftUI
+- UIKit
+- Combine
 
----
+🐍 Backend Engineer using:
+- Python
+- Django
+- Django REST Framework
 
-## 🏆 GitHub Trophies
+⚡ Interested in:
+- AI
+- Real-time systems
+- Clean Architecture
+- System Design
 
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=hrzjanati&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![Hamidreza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrzjanati&theme=tokyo-night&hide_border=true)](https://github.com/hrzjanati)
-
-</div>
+🌍 Portfolio:
+https://hrzjanati.ir
 
 ---
 
-## 💭 Random Dev Quote
+# 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=swift,python,django,react,js,ts,docker,postgres,redis,linux,git,firebase,apple"/>
 
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrzjanati)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
+</p>
 
 ---
 
-<div align="center">
-  
-### 👀 Profile Views
+# 📊 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=hrzjanati&color=blueviolet&style=for-the-badge)
+<p align="center">
 
-### ⭐ Show some love by starring my repositories!
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrzjanati&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrzjanati&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 ---
 
-## 🐍 Contribution Snake
+# 🔥 GitHub Streak
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/hrzjanati/hrzjanati/output/snake.svg)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hrzjanati&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+---
 
+# 🚀 Current Focus
 
-### 3. ذخیره و Push کردن
+- Advanced iOS Development
+- Scalable Django Architectures
+- AI Integrations
+- Real-time Platforms
+- Product Engineering
 
-تو Terminal VS Code:
+---
 
-```bash
-git add README.md
-git commit -m "Update README"
-git push origin main
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://hrzjanati.ir">
+Website
+</a>
+•
+<a href="https://ir.linkedin.com/in/hrzjanati">
+LinkedIn
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hrzjanati&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
