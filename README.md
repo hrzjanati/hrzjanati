@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34578493/README.md)
+[Uploading README.md…]()
 <div align="center">
 
 <img src="assets/hero.svg" alt="Hossein Rezazadeh Janati, Senior iOS Developer" width="100%" />
@@ -133,14 +133,9 @@ My two earlier startups did not survive the difficult conditions in Iran during 
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## GitHub Insights
+## Activity
 
 <img src="assets/heatmap.svg" alt="Contribution heatmap" width="100%" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hrzjanati&show_icons=true&hide_border=true&bg_color=000000&title_color=0a84ff&icon_color=bf5af2&text_color=f5f5f7&border_radius=24&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrzjanati&layout=compact&hide_border=true&bg_color=000000&title_color=0a84ff&text_color=f5f5f7&border_radius=24" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=hrzjanati&hide_border=true&background=000000&ring=0a84ff&fire=ff375f&currStreakLabel=f5f5f7&currStreakNum=f5f5f7&sideNums=f5f5f7&sideLabels=8e8e93&dates=8e8e93&border_radius=24" alt="GitHub streak" />
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
