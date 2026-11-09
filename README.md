@@ -19,9 +19,9 @@
 
 ## About
 
-Senior iOS Developer with **6+ years** building high-performance banking and mobile apps with **Swift, SwiftUI and UIKit**. I ship in Agile/Scrum teams, care deeply about architecture (MVVM, VIPER, Clean Architecture), and mentor junior developers through TDD and code reviews.
+Senior iOS Developer with **6+ years** building high-performance banking and mobile apps with **Swift, SwiftUI and UIKit**. I am also a **startup founder** (three ventures so far). I ship in Agile/Scrum teams, care deeply about architecture (MVVM, VIPER, Clean Architecture), and mentor junior developers through TDD and code reviews.
 
-**Banking-grade security** (OAuth 2.0, Face ID / Touch ID, encryption, iXGuard) · **Real-time communication** (WebRTC, WebSocket, gRPC) · **Reactive and modern concurrency** (Combine, async/await) · **CI/CD** (Jenkins, Fastlane) · **AI-assisted development** (Copilot, Cursor, Claude, OpenAI API) · **Backend as a bonus** (Django, DRF, PostgreSQL, Redis, Docker)
+**Banking-grade security** (OAuth 2.0, Face ID / Touch ID, encryption, iXGuard) · **Real-time communication** (WebRTC, WebSocket, gRPC) · **Reactive and modern concurrency** (Combine, async/await) · **CI/CD** (Jenkins, Fastlane) · **AI-assisted development** (Copilot, Cursor, Claude, OpenAI API) · **Backend, mid-level** (Python, Django, DRF), able to build and deploy services end to end
 
 <div align="center">
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -113,9 +113,23 @@ Senior iOS Developer with **6+ years** building high-performance banking and mob
 | **StelockTracker** | Basir Andishan | Swift, UIKit, CoreData |
 | **ActiveTracker** | Basir Andishan | Swift, UIKit, HealthKit |
 
-## Side Project
+## Founder
 
-**[My Family (خانواده من)](https://khanevadehman.ir)**: a Persian-language family health management web app built with Django, with a WordPress landing site and SEO blog that funnels users into the app.
+**[My Family (خانواده من)](https://app.khanevadehman.ir/)** is my third startup, which I founded with my co-founders. It is a Persian-language family health platform that keeps the health information of the whole family in one place. The marketing site and SEO blog live at [khanevadehman.ir](https://khanevadehman.ir) and bring users into the app.
+
+**What the app does**
+
+- **Family profiles:** adults with their own accounts (verified by OTP), minors, and adults without accounts, all managed under one family
+- **My Child:** a profile card for each child with BMI, blood type and the medication list
+- **Lab results with OCR:** upload a PDF or photo of a lab test and the app extracts the results, recognizing 170+ Iranian lab test names
+- **Period tracker:** cycle analysis with lateness detection, progress and tiered warnings, for multiple profiles
+- **Drug database:** Iranian drug data collected from several public sources and normalized for search
+- **Persian-first experience:** full RTL layout, dark mode, and a smooth OTP login
+- **Coming next:** drug interaction checking
+
+**My role:** I design and build the product and its Python/Django backend, run the servers, and publish the services myself. My backend level is solid mid-level: I build APIs, data models, background processing and deployments end to end, and I keep the system simple enough for a small team to run.
+
+My two earlier startups did not survive the difficult conditions in Iran during the last two wars. Building them taught me product thinking, shipping with limited resources, and how to keep going when circumstances change overnight. I carry all of that into My Family and into the teams I work with.
 
 <div align="center">
 
