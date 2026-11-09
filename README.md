@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/34578493/README.md)
 <div align="center">
 
 <img src="assets/hero.svg" alt="Hossein Rezazadeh Janati, Senior iOS Developer" width="100%" />
@@ -7,9 +8,8 @@
 <a href="https://hrzjanati.ir"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/hrzjanati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:hrzjanati@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=hrzjanati&label=Views&color=0a84ff&style=for-the-badge&labelColor=000000" alt="Profile views" />
 
-<br/><br/>
+<br/>
 
 <img src="assets/metrics.svg" alt="Key metrics" width="100%" />
 
@@ -23,15 +23,13 @@ Senior iOS Developer with **6+ years** building high-performance banking and mob
 
 **Banking-grade security** (OAuth 2.0, Face ID / Touch ID, encryption, iXGuard) · **Real-time communication** (WebRTC, WebSocket, gRPC) · **Reactive and modern concurrency** (Combine, async/await) · **CI/CD** (Jenkins, Fastlane) · **AI-assisted development** (Copilot, Cursor, Claude, OpenAI API) · **Backend, mid-level** (Python, Django, DRF), able to build and deploy services end to end
 
-<div align="center">
-<img src="assets/divider.svg" alt="" width="100%" />
+<div align="center"><img src="assets/divider.svg" alt="" width="100%" /></div>
 
 ## Tech Stack
 
 <img src="assets/marquee.svg" alt="Tech stack" width="100%" />
 
-<img src="assets/divider.svg" alt="" width="100%" />
-</div>
+<div align="center"><img src="assets/divider.svg" alt="" width="100%" /></div>
 
 ## Experience
 
