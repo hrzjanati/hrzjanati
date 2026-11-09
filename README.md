@@ -137,6 +137,8 @@ My two earlier startups did not survive the difficult conditions in Iran during 
 
 ## GitHub Insights
 
+<img src="assets/heatmap.svg" alt="Contribution heatmap" width="100%" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hrzjanati&show_icons=true&hide_border=true&bg_color=000000&title_color=0a84ff&icon_color=bf5af2&text_color=f5f5f7&border_radius=24&rank_icon=github" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrzjanati&layout=compact&hide_border=true&bg_color=000000&title_color=0a84ff&text_color=f5f5f7&border_radius=24" alt="Top languages" />
 
